@@ -45,9 +45,11 @@ HOW DOES A SOTA MODEL BACKSLIDE THIS HARD!? HOW?! HOW DO WE GO FROM THAT TO THIS
 
 ### GLM 4.7 Think
 ![GLM 4.7 Think](images/GLM%204.7Think.png)
+I really liked the characterization and dichotomy on this one. Yes ozone. But also: All these models are incestous at this point ozone is literally a tumor. Now did it write for me? Yes. Rape threat though? Yes. Prose? Fucking golden. I would give it a PSD- tell it not to write for me and then keep trucking. Might use this one again. (Was surprisingly fast too!)
 
 ### GLM 5 Think
 ![GLM 5 Think](images/GLM-5Think.png)
+Well, downside: Thinking took a minute. Upside: Pretty fucking great. What can I say. Back and forth dialogue; they sound distinct, lil bit of voice/accent work. Long turn but didn't write for me. Clearly on the podium. Great response and exposition. I see why people call this model budget Opus.
 
 ---
 
