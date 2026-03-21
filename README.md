@@ -1,6 +1,6 @@
 # 📋✧˖°. Chibi Gram Pacer Test .°˖✧📋
 
-A Unique Minimalistic Preset.
+# A Unique Minimalistic Preset/Benchmark
 <img width="2048" height="2048" alt="Gemini_Generated_Image_kcwh6dkcwh6dkcwh" src="https://github.com/user-attachments/assets/b9b63e91-180c-4c10-9184-6b5d74fff3a9" />
 
 
