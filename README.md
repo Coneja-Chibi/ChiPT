@@ -1,6 +1,7 @@
 # 📋✧˖°. Chibi Gram Pacer Test .°˖✧📋
-This preset is built around
-### Model Response Gallery
+
+<img width="2048" height="2048" alt="Gemini_Generated_Image_kcwh6dkcwh6dkcwh" src="https://github.com/user-attachments/assets/b9b63e91-180c-4c10-9184-6b5d74fff3a9" />
+
 
 This preset is built around a paper I read at ICLR 2026 called "Probing Evaluation Awareness of Language Models." The researchers found that every frontier model they tested, Claude, Gemini, GPT, could tell when it was being evaluated and performed differently because of it. Gemini 2.5 Pro scored 0.83 AUC at detecting evaluation contexts. They literally try harder when they think they're being graded. I read that and thought: what if I just... never told it to stop? This theory in humans is called the 'Hawthorne Effect.' (Which was the base idea of that preset before it ran away from me.)
 
@@ -12,6 +13,7 @@ The preset is deliberately small. No lorebook dependency. No 50-entry infrastruc
 
 Anyways; here is the benchmark! When new models come out I'll send them through the ringer and add them here.
 
+# Benchmark Evals
 ---
 
 ## Anthropic
