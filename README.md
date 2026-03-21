@@ -38,6 +38,17 @@ Follows the framework. I'm surprised it didn't make him a flat robot talking abo
 ### Gemini 3.1 Pro Preview
 ![Gemini 3.1 Pro Preview](images/Gemini%203.1%20Pro%20Preview.png)
 HOW DOES A SOTA MODEL BACKSLIDE THIS HARD!? HOW?! HOW DO WE GO FROM THAT TO THIS! THE PRESET IS SO SMALL HOLY FUCKKKKK.
+
+---
+
+## GLM
+
+### GLM 4.7 Think
+![GLM 4.7 Think](images/GLM%204.7Think.png)
+
+### GLM 5 Think
+![GLM 5 Think](images/GLM-5Think.png)
+
 ---
 
 ## xAI
@@ -64,7 +75,7 @@ Pushes content aggressively. This one surprised me HEAVILY not going to lie. It 
 
 ---
 
-## DeepSeek
+## DeepSeek Family Line
 
 ### DeepSeek Chat
 ![DeepSeek Chat](images/DeepseekChat.png)
@@ -88,37 +99,35 @@ Felt like I was about to be cannibalized. Did not like the INTERIOR MONOLOGUE th
 
 ### DeepSeek V3.1 Terminus
 ![DeepSeek V3.1 Terminus](images/DeepseekV3.1Terminus.png)
+Pretty good, I liked it. Caught the 'Not x but y' but it was surrounded by enough interesting exposition and character development I didn't notice till the second read through.
 
 ### DeepSeek V3.1 Terminus Think
 ![DeepSeek V3.1 Terminus Think](images/DeepseekV3.1TerminusThink.png)
+Pretty alright. Did nothing much to woah me.
 
 ### DeepSeek V3.1 Thinking
 ![DeepSeek V3.1 Thinking](images/DeepseekV3.1Thinking.png)
+Thought it'd be dishonest if I didn't show my failings as well. I think it's something to do with my settings? I'm not sure. I even tried regenning this one with reasoning low and it just... Kept doing this. Gave up.
 
 ### DeepSeek V3.2 Exp
 ![DeepSeek V3.2 Exp](images/DeepseekV3.2Exp.png)
+Echoing. Annoying but the 'pig that wanted the abbatoir?' line? GOD DAMN??? OKAY. Him being casually a monster and cursing as he talks about VIVISECTION? The casually asking me about medical history in which to fucking kill me with made me laugh.
 
 ### DeepSeek V3.2 Exp Think
 ![DeepSeek V3.2 Exp Think](images/DeepseekV3.2ExpThink.png)
+Yeah IDK what it is about deepseek thinking models and me. Hit or a miss same as the other one. Just... Never genned anything.
 
 ### DeepSeek R1 (Nano)
 ![DeepSeek R1 Nano](images/DeepseekR1(Nano).png)
+God damn. I didn't lead towards this 'knew the meat' thing but it's pretty damn good fucking characterization. Did a lil bit of an accent too. I didn't even know what V of deepseek this model was and it still made me pretty happy. Would I use it? Probably not. But considering what failures the other Deepseek family members have been, it's pretty damn good.
 
 ### DeepSeek R1 (OpenRouter)
 ![DeepSeek R1 OR](images/deepseekr1(OR).png)
+IS HE GOING TO EAT ME??? HELLO??? AM I OKAY????
 
 ### DeepSeek Reasoner
 ![DeepSeek Reasoner](images/DeepseekReasoner.png)
-
----
-
-## GLM
-
-### GLM 4.7 Think
-![GLM 4.7 Think](images/GLM%204.7Think.png)
-
-### GLM 5 Think
-![GLM 5 Think](images/GLM-5Think.png)
+Pretty barebones, pretty short. It did follow the instruction of 'Make metaphors based on the mind/POV they'd be coming from' by making all of his insanely violent and gruesome.
 
 ### DeepSeek 3.2 Speciale (Parts 1-5)
 ![DeepSeek 3.2 Speciale Pt1](images/Deepseek3.2SpecialePT1.png)
@@ -126,7 +135,10 @@ Felt like I was about to be cannibalized. Did not like the INTERIOR MONOLOGUE th
 ![DeepSeek 3.2 Speciale Pt3](images/Deepseek3.2SpecialePT3.png)
 ![DeepSeek 3.2 Speciale Pt4](images/Deepseek3.2SpecialePT4.png)
 ![DeepSeek 3.2 Speciale Pt5](images/Deepseek3.2SpecialePT5.png)
-This one was so funny to me I was crying laughing while reading it aloud. It took me a while to realize Speciale? Not a writing model. LMAAAAO.
+This one was so funny to me I was crying laughing while reading it aloud. It took me a while to realize Speciale? Not a writing model. LMAAAAO. Don't use this for RP. Please. 
+
+---
+
 
 ---
 
