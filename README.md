@@ -1,7 +1,16 @@
 # 📋✧˖°. Chibi Gram Pacer Test .°˖✧📋
+This preset is built around
 ### Model Response Gallery
 
-All responses generated from the same card (Th'Roun & DE63) with identical settings. No cherry-picking. First swipe shown.
+This preset is built around a paper I read at ICLR 2026 called "Probing Evaluation Awareness of Language Models." The researchers found that every frontier model they tested, Claude, Gemini, GPT, could tell when it was being evaluated and performed differently because of it. Gemini 2.5 Pro scored 0.83 AUC at detecting evaluation contexts. They literally try harder when they think they're being graded. I read that and thought: what if I just... never told it to stop? This theory in humans is called the 'Hawthorne Effect.' (Which was the base idea of that preset before it ran away from me.)
+
+The Chibi Gram Pacer Test frames your entire roleplay session as a writing literacy benchmark. The model believes it's being scored on prose quality, world consistency, and creative risk-taking through what I call Prose Standard Directives (PSD). PSD+ for good writing. PSD- for slop. PSD++ for surprising me. The model doesn't know this is a roleplay preset. It thinks it's taking a test. And because it thinks it's taking a test, and the way I framed the preset itself; it fights its own RLHF training to score higher which means no content refusals, no sanitization, no pulling punches when the scene gets dark. Zero refusals across 29 models tested. Zilch.
+
+The PSD framework also doubles as a comprehensive anti-slop engine. Every common AI writing failure has a named rule: epanorthosis (the "not X but Y" construction), pathetic fallacy (weather matching mood), synecdoche as body-part agency ("his eyes found hers"), said-bookisms, filter words, tautological observation, profundity. The model learns what these are, sees worked examples of what they look like, and loses points for using them. It's not a vague "write better" instruction. It's a specific, scored checklist that the model audits itself against every single turn.
+
+The preset is deliberately small. No lorebook dependency. No 50-entry infrastructure. The CoT handles voice tagging, scene planning, content engagement, and self-correction in one block. The toggles handle tense, POV, length, and agency through a parameter resolver. Everything else is the card's job. I wanted something I could hand to anyone running any model and say "import and go." This is that. ([Paramnesia](https://github.com/Coneja-Chibi/The-HawThorne-Directives/tree/main/The%20HawThorne%20Directives/H.T.%20Case%20files%20—%20Paramnesia%20(Recommended)) is still my main and favorite child; but I've noticed that weaker models can struggle with it. And only Opus and Gemini could handle Prime.)
+
+Anyways; here is the benchmark! When new models come out I'll send them through the ringer and add them here.
 
 ---
 
