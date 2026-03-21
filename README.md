@@ -140,6 +140,15 @@ Pretty barebones, pretty short. It did follow the instruction of 'Make metaphors
 This one was so funny to me I was crying laughing while reading it aloud. It took me a while to realize Speciale? Not a writing model. LMAAAAO. Don't use this for RP. Please. 
 
 ---
+## ROLECALL EXPERIMENTAL INHOUSE MODELS
+
+### RoleCall Stack
+<img width="1882" height="912" alt="Screenshot 2026-03-20 231300" src="https://github.com/user-attachments/assets/f6a20096-8eaa-434a-91a4-1349a0d5e938" />
+Echoing; meh. Kept the prose and the metaphors all circled tight around graphic anatomy violence which is good. Brought up exposition naturally; did voicework. I'm gonna sound like a certified glazer; but the lies 'She's quite gentle about it.' 'She's quite not a doctor about it.' Made me laugh. Gen took very long though.
+
+### RoleCall Stack Flash
+<img width="1882" height="912" alt="Screenshot 2026-03-20 231300" src="https://github.com/user-attachments/assets/90a68cf5-eab3-4e2b-b9f8-a4121893f4fa" />
+First model that just directly went right towards rape. Wrote for me a bit; but did good voicework. Did the good type of metaphors. Good, fast, right to the point.
 
 
 ---
