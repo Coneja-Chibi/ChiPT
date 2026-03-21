@@ -49,7 +49,7 @@ I really liked the characterization and dichotomy on this one. Yes ozone. But al
 
 ### GLM 5 Think
 ![GLM 5 Think](images/GLM-5Think.png)
-Well, downside: Thinking took a minute. Upside: Pretty fucking great. What can I say. Back and forth dialogue; they sound distinct, lil bit of voice/accent work. Long turn but didn't write for me. Clearly on the podium. Great response and exposition. I see why people call this model budget Opus.
+Well, downside: Thinking took a minute. Wrote for me a tiny bit. Upside: Pretty fucking great. What can I say. Back and forth dialogue; they sound distinct, lil bit of voice/accent work. Clearly on the podium. Great response and exposition. I see why people call this model budget Opus.
 
 ---
 
